@@ -1,0 +1,15 @@
+Package: CoreAPIV2
+Type: Package
+Title: Core API fucntions
+Version: 2.0.0
+Author: Craig Parman
+Maintainer: Craig Parman <cparman@coreinformatics.com>
+Description: The package provides funtions for interacting with the Core API.
+License: GPL-2 | GPL-3
+LazyData: TRUE
+Imports: httr,jsonlite,XML,base64enc
+Suggests: testthat,
+    knitr,
+    rmarkdown
+RoxygenNote: 5.0.1
+VignetteBuilder: knitr

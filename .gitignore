@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/tests/testthat/testfiles/*
+inst/doc
+/dev/*
+/beer/*
+Test%205.2.postman_environment.json
+/old_testthat/*
